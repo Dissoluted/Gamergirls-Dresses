@@ -29,7 +29,7 @@
   DressBLE V6: The jewel values were lowered to be worth between 1-5 to lengthen game time for Fashionware.
 */
 
-//COMPILES ON ARDUINO 1.8.6 but might need 1.6.7
+//COMPILES ON ARDUINO 1.8.6 but might need 1.6.7 or 1.6.4
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
